@@ -11,5 +11,5 @@
 <p>${userTempGauge.getTemp()} This is your temperature you entered converted to fahrenheit: <br />
 ${userTempGauge.getfTemp()} degrees fahrenheit. 
 </p>
-<a href="index.jsp">Enter another temperature</a>
+<a href="fahrenheitIndex.jsp">Enter another temperature</a>
 </html>

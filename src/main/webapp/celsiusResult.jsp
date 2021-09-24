@@ -11,5 +11,5 @@
 <p>${userTempGauge.getTemp()} This is your temperature you entered converted to celsius: <br />
 ${userTempGauge.getcTemp()} degrees celsius. 
 </p>
-<a href="index.jsp">Enter another temperature</a>
+<a href="celsiusIndex.jsp">Enter another temperature</a>
 </html>
